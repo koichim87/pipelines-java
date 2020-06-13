@@ -1,5 +1,4 @@
-
-https://koichim.visualstudio.com/devops-study01/_apis/build/status/koichim87.pipelines-java?branchName=master
+![test](https://koichim.visualstudio.com/devops-study01/_apis/build/status/koichim87.pipelines-java?branchName=master)
 
 # Contributing
 
