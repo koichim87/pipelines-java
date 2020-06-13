@@ -1,4 +1,6 @@
 
+[![Build Status](https://koichim.visualstudio.com/devops-study01/_apis/build/status/koichim87.pipelines-java?branchName=master)](https://koichim.visualstudio.com/devops-study01/_build/latest?definitionId=6&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
